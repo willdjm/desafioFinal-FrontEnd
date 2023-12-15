@@ -54,9 +54,7 @@ $ npm run dev
 
 ## 🚀 Deploy
 
-<p align="center">
-<a href="https://desafio-final-front-end.vercel.app/">https://desafio-final-front-end.vercel.app/</a>
-</p>
+https://desafio-final-front-end.vercel.app
 
 
 

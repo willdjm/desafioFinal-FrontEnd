@@ -20,7 +20,6 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 - NodeJS
 - Vite
 
-
 ## 🎨 Layout
 
 Figma:
@@ -52,3 +51,7 @@ $ password: 456123
 
 $ npm install
 $ npm run dev
+
+## 🚀 Deploy
+
+https://desafio-final-front-end.vercel.app/
